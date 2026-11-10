@@ -11,3 +11,4 @@ Remember, it's self-paced so feel free to take a break! ☕️
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/antonyramalhodev-stack/skills-copilot-code-review/issues/1)
 
 Test line for the GH-300 audit rerun (2026-11-10).
+ Second test line.
